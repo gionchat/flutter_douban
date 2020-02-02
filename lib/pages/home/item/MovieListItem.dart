@@ -43,7 +43,7 @@ class MovieListItem extends StatelessWidget {
               height: 160,
             )),
         getDetailWidget(),
-        Text("line0000"),
+        Text("line"),
         getWishWidget(),
       ],
     );
